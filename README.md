@@ -2,7 +2,7 @@
 
 ![Banner](./screenshot.png)
 
-**Official Release:** [v1.0 - Download EXE](https://github.com/<your-username>/<your-repo>/releases/download/v1.0/AStarWith8StonesPuzzle.exe)
+**Official Release:** [v1.0 - Download EXE](https://github.com/SemanurOrhan/AStarWith8StonesPuzzle/releases/download/v1.0/AStarWith8StonesPuzzle.exe)
 
 ---
 
@@ -25,7 +25,7 @@ Başlangıçtaki karışık taş dizilimini hedef dizilime en kısa adımlarla u
 - Her adım ekranda görselleştirilir ve kullanıcı çözüm sürecini takip edebilir.
 
 ### 🔹 Çalıştırma
-- [**v1.0 EXE İndir**](https://github.com/<your-username>/<your-repo>/releases/download/v1.0/AStarWith8StonesPuzzle.exe)  
+- [**AStarWith8StonesPuzzle EXE İndir**](https://github.com/SemanurOrhan/AStarWith8StonesPuzzle/releases/download/v1.0/AStarWith8StonesPuzzle.exe)  
 - İndirip `.exe` dosyasına çift tıklayın.  
 - Self-contained build olduğu için ekstra kurulum gerekmez.
 
@@ -50,7 +50,7 @@ The goal is to rearrange the scrambled tiles to the target configuration in the 
 - Each move is displayed, allowing users to visualize the solution path.
 
 ### 🔹 How to Run
-- Download the working version: [**v1.0 EXE**](https://github.com/<your-username>/<your-repo>/releases/download/v1.0/AStarWith8StonesPuzzle.exe)  
+- Download the working version: [**v1.0 EXE**](https://github.com/SemanurOrhan/AStarWith8StonesPuzzle/releases/download/v1.0/AStarWith8StonesPuzzle.exe)  
 - Double-click the `.exe` to launch.  
 - No additional setup is required as the build is self-contained.
 
