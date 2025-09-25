@@ -1,8 +1,6 @@
 # 🧩 A* Algorithm - 8 Stones Puzzle Solver
 
-![Banner](./screenshot.png)
-
-**Official Release:** [v1.0 - Download EXE](https://github.com/SemanurOrhan/AStarWith8StonesPuzzle/releases/download/v1.0/AStarWith8StonesPuzzle.exe)
+**Official Release:** [v1.0 AStarWith8StonesPuzzle - Download EXE](https://github.com/SemanurOrhan/AStarWith8StonesPuzzle/releases/download/v1.0/AStarWith8StonesPuzzle.exe)
 
 ---
 
@@ -50,7 +48,7 @@ The goal is to rearrange the scrambled tiles to the target configuration in the 
 - Each move is displayed, allowing users to visualize the solution path.
 
 ### 🔹 How to Run
-- Download the working version: [**v1.0 EXE**](https://github.com/SemanurOrhan/AStarWith8StonesPuzzle/releases/download/v1.0/AStarWith8StonesPuzzle.exe)  
+- Download the working version: [**AStarWith8StonesPuzzle EXE**](https://github.com/SemanurOrhan/AStarWith8StonesPuzzle/releases/download/v1.0/AStarWith8StonesPuzzle.exe)  
 - Double-click the `.exe` to launch.  
 - No additional setup is required as the build is self-contained.
 
